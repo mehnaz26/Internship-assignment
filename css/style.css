@@ -1,0 +1,31 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+a,
+a:hover {
+    text-decoration: none;
+}
+ .container{
+    width: 100%;
+    padding: 80px 40px;
+    background:#fdfafa;
+ }
+ .container .item{
+   text-align: center;
+ }
+ .container .item .item-onclick button{
+   width:30px;
+   height:30px;
+   background:#fff;
+   overflow:hidden;
+   cursor:pointer;
+   border-radius:15px;
+  
+}
